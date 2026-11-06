@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 four
 4
+=======
+four
+>>>>>>> f9a8bb8 ( i created two.txt and added two there)
