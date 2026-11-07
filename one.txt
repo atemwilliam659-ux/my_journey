@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 one
 hello
-=======
-one
->>>>>>> 18355e0 (i have made some changes to files)
+
